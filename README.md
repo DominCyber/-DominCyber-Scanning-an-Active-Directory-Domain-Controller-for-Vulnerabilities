@@ -4,12 +4,13 @@ Saint Leo University Course work intended to familiarize undergraduates with sca
 
 ### Skills Learned
 <p>-Vulnerability Scanning Methodolgy</p>
-<p>-Common AD vulnerabilities
+<p>-Common AD vulnerabilities</p>
 <p>-Nmap port scanning and operating system and service version detection switches</p>
 <p>-Zenmap GUI familiarization and port scanning switches</p>
 <p>-Nessus basic scanning configuration</p>
 <p>-CVE threat assessment</p>
-<p>-Cyber Kill Chain applications to vulnerability scanning. </p>
+<p>-Cyber Kill Chain applications to vulnerability scanning</p>
+
 ### Tools Used
 -Laptop
 <p>-Cengage eLearning</p>
