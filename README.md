@@ -1,11 +1,13 @@
 # DominCyber Scanning an Active Directory Domain Controller for Vulnerabilities
 ## Objective
-Utilize the Coursera Google Cybersecurity Professional Certificate Course to obtain practical skills, like using Python-enabled to automate cybersecurity tasks. This course section provide guide projects to rapidly familiarize users with Python scripting fundamentals. Specifically, this project demonstrated processes that imported, opened, read, extracted, parsed, and updated data from an external log file, utilizing the various components of the Python Programming Language.
-
-The project was presented as if the user was a security professional for a healthcare company who needed to vet an existing IP address allow list against a IP address remove list variable by running the allow list through a Python script.
+Saint Leo University Course work intended to familiarize undergraduates with scanning Active Directory Domain Controller for Vulnerabilities. This practical guided project presents methodologies and applications to conduct indepth vulnerability scans.
 
 ### Skills Learned
-
+<p>-Vulnerability Scanning Methodolgy</p>
+<p>-Nmap port scanning switches</p>
+<p>-Zenmap GUI familiarization and port scanning switches</p>
+<p>-Nessus basic scanning configuration
+<p>-CVE threat assessment
 ### Tools Used
 -Laptop
 <p>-Cengage eLearning</p>
