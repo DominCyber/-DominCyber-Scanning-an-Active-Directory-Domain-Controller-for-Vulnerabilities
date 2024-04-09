@@ -10,12 +10,8 @@ Saint Leo University Course work intended to familiarize undergraduates with sca
 <p>-Nessus basic scanning configuration</p>
 <p>-PowerShell</p>
 <p>-CVE threat assessment</p>
-<p>-Cyber Kill Chain applications to vulnerability scanning</p>
-<ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-</ul>
+<li>-Cyber Kill Chain applications to vulnerability scanning</li>
+
 
 ### Tools Used
 -Laptop
