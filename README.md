@@ -22,10 +22,12 @@ Saint Leo University Course work intended to familiarize undergraduates with sca
 <img src="https://i.imgur.com/pDfl115.png" style="width: 100%;" alt="1">
 <p><i>Ref 3:</i></p>
 <img src="https://i.imgur.com/CODjYuf.jpg" style="width: 100%;" alt="1">
-<p><i>Ref 4:</i></p>
+<p><i>Ref 4: Zenmap results for a regular scan.</i></p>
 <img src="https://i.imgur.com/NNYA7b3.jpg" style="width: 100%;" alt="1">
-<p><i>Ref 5:</i></p>
+<p><i>Ref 5: Zenmap results for a scan results for an intense TCP port scan<./i></p>
 <img src="https://i.imgur.com/1SCFv6m.jpg" style="width: 100%;" alt="1">
-<p><i>Ref 6:</i></p>
+<p><i>Ref 6: Nessus scan configuration, scan results, and high vulnability selected.</i></p>
+<p><i>An SMBv1 vulnerability was discovered.</i></p>
 <img src="https://i.imgur.com/rRnRMrQ.jpg" style="width: 100%;" alt="1">
-<p><i>Ref 7:</i></p>
+<p><i>Ref 7: PowerShell command line search for services reveals SMBv1 Protocol enabled.</i></p>
+<p><i>Then the prompt disabling of the servcice.</i></p>
