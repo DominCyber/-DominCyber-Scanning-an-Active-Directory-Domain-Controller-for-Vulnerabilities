@@ -5,15 +5,20 @@ Saint Leo University Course work intended to familiarize undergraduates with sca
 ### Skills Learned
 <p>-Vulnerability Scanning Methodolgy</p>
 <p>-Common AD vulnerabilities</p>
-<p>-Nmap port scanning and operating system and service version detection switches</p>
+<p>-Nmap port scanning, operating system and service version detection switches</p>
 <p>-Zenmap GUI familiarization and port scanning switches</p>
 <p>-Nessus basic scanning configuration</p>
+<p>-PowerShell</p>
 <p>-CVE threat assessment</p>
 <p>-Cyber Kill Chain applications to vulnerability scanning</p>
 
 ### Tools Used
 -Laptop
 <p>-Cengage eLearning</p>
+<p>-Nmap</p>
+<p>-Zenmap</p>
+<p>-Nessus</p>
+<p>-PowerShell</p>
 
 ### Steps
 <img src="https://i.imgur.com/p2ZtoHR.png" style="width: 100%;" alt="1">
