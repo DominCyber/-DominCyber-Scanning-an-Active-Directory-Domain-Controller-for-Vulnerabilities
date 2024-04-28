@@ -1,6 +1,6 @@
 # DominCyber Scanning an Active Directory Domain Controller for Vulnerabilities
 ## Objective
-Saint Leo University Course work is intended to familiarize undergraduates with scanning Active Directory Domain Controller for Vulnerabilities. This practical guided project presents a virtual machine environment that explores methodologies and applications to conduct and analyze indepth vulnerability scans. The scenario details SMBv1 vulnerabilities post-scan, namely unauthenticated remote access or denial of service attacks from improper handling of external requests to a targeted Active Directory server.
+Saint Leo University Course work is intended to familiarize undergraduates with scanning active directory domain Controllers for Vulnerabilities. This practical guided project presents a virtual machine environment that explores methodologies and applications to conduct and analyze indepth vulnerability scans. The scenario details SMBv1 vulnerabilities post-scan, namely unauthenticated remote access or denial of service attacks from improper handling of external requests to a targeted Active Directory server.
 
 ### Skills Learned
 <p>-Vulnerability Scanning Methodolgy</p>
